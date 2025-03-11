@@ -32,7 +32,6 @@
 --				ON PRODUCERC# = CERT#
 --				ORDER BY NETWORTH DESC);
 
--- 5.Напишете заявка, която извежда имената на актьорите, които не са участвали в нито един филм.
 --SELECT NAME
 --FROM MOVIESTAR LEFT JOIN STARSIN
 --ON STARNAME = NAME
